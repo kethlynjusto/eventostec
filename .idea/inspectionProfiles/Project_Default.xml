@@ -6,15 +6,18 @@
       <option name="ignoredModules">
         <list>
           <option value="apiEventosTec" />
+          <option value="apiEventosTec" />
         </list>
       </option>
       <option name="ignoredPackages">
         <list>
           <option value="org.xmlunit:xmlunit-core:2.9.1" />
+          <option value="software.amazon.ion:ion-java:1.0.2" />
         </list>
       </option>
       <option name="ignoredReasons">
         <list>
+          <option value="Not exploitable" />
           <option value="Not exploitable" />
         </list>
       </option>
